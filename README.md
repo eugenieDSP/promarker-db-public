@@ -6,7 +6,7 @@
 
 **This app fixes both.** It's a free tool where you list the markers you own, capture what they *really* look like from a photo of your own swatches, and find colours that go nicely together. It runs in your web browser, keeps everything on your own device, and needs no account.
 
-> This is a fan-made tool. It is not made by, affiliated with, or endorsed by Winsor & Newton. Colour names and codes are used only to identify the pens.
+> This is a fan-made tool. It is not made by, affiliated with, or endorsed by Winsor & Newton, Copic, Ohuhu, Prismacolor, or any marker maker. Brand and colour names are used only to identify the pens. Colour names and codes are used only to identify the pens.
 
 ## Opening this from a link (please read)
 
@@ -16,11 +16,11 @@ If you tapped a link from **Reddit, Instagram, Facebook, or a similar app**, it 
 
 ---
 
-A free little app for anyone who uses **Winsor & Newton Promarker** pens. It helps you keep track of which markers you own, see what colours they *really* make (screen swatches often lie), and pick colours that work well together.
+A free little app for anyone who uses alcohol markers. It helps you keep track of which markers you own — across brands — see what colours they *really* make (screen swatches often lie), pick colours that work well together, and find the closest match in another brand when you want to substitute. It currently includes **Winsor & Newton Promarker**, **Copic**, **Ohuhu** (Honolulu range), and **Prismacolor Premier**, with a custom option for any other brand.
 
 Everything stays on your own device. No sign-up, no account, no ads, nothing sent anywhere. It even works with no internet once you've opened it once.
 
-> This is a fan-made tool. It is not made by, affiliated with, or endorsed by Winsor & Newton.
+> This is a fan-made tool. It is not made by, affiliated with, or endorsed by Winsor & Newton, Copic, Ohuhu, Prismacolor, or any marker maker. Brand and colour names are used only to identify the pens.
 
 ---
 
@@ -30,7 +30,8 @@ Everything stays on your own device. No sign-up, no account, no ads, nothing sen
 - **See real colours, not guesses** — take a photo of a swatch you've coloured, tap it, and the app records the true colour. It even shows what one, two, and three layers of ink look like.
 - **Show the colour codes** — for every marker you get the HEX and RGB values (handy for digital work), plus hue, chroma and saturation.
 - **Find matching colours** — open any marker to see which of your other markers go well with it (complementary, analogous, and so on).
-- **Reverse colour search** — got a HEX or RGB value from somewhere? The **Find** tab tells you the closest Promarker to reach for.
+- **Reverse colour search** — got a HEX or RGB value from somewhere? The **Find** tab tells you the closest marker to reach for, in your collection or any brand.
+- **Filter by brand & find substitutes** — view one brand at a time, or use Find to see which Copic best matches a Promarker (or vice versa) when you want to swap between them.
 - **A colour wheel** — see your whole collection arranged by colour, like a painter's wheel.
 
 ---
@@ -87,7 +88,7 @@ After that it opens full-screen, has its own icon, and works even with no intern
 
 ## A couple of honest notes
 
-- The colours the app starts with are **estimates**. They get accurate when *you* measure your own swatches from photos. Your phone's camera and lighting affect the result, so daylight gives the truest colours.
+- The colours the app starts with are **estimates** — for Copic and especially Ohuhu they're only a rough starting point (Ohuhu even varies pen to pen), so treat them loosely. They get accurate when *you* measure your own swatches from photos. Your phone's camera and lighting affect the result, so daylight gives the truest colours.
 - The colour wheel positions are **approximate** — good for seeing the shape of your collection, not for exact colour science.
 - Your data is **per device**. Use Export/Import (above) to move or back it up.
 
